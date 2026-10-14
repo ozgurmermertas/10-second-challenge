@@ -36,3 +36,5 @@ The Arduino source code is available in `LCDEKRAN.ino`.
 ## Author
 
 Özgür Mermertaş
+
+![10 Second Challenge](10%20second%20challenge.jpeg)
